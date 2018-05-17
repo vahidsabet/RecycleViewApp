@@ -65,7 +65,7 @@ mseecbar=(SeekBar) findViewById(R.id.seekBar);
                     pauseSound();
                 }else{
                     startSound();
-                    Toast.makeText(MainActivity.this, "OK",Toast.LENGTH_LONG).show();
+                  //  Toast.makeText(MainActivity.this, "OK",Toast.LENGTH_LONG).show();
                 }
 
             }
